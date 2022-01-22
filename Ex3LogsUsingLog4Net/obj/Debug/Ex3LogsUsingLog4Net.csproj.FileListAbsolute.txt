@@ -1,0 +1,11 @@
+C:\Users\Shily\Homework Zionet\Ex3LogsUsingLog4Net\Ex3LogsUsingLog4Net\bin\Debug\Ex3LogsUsingLog4Net.exe.config
+C:\Users\Shily\Homework Zionet\Ex3LogsUsingLog4Net\Ex3LogsUsingLog4Net\bin\Debug\Ex3LogsUsingLog4Net.exe
+C:\Users\Shily\Homework Zionet\Ex3LogsUsingLog4Net\Ex3LogsUsingLog4Net\bin\Debug\Ex3LogsUsingLog4Net.pdb
+C:\Users\Shily\Homework Zionet\Ex3LogsUsingLog4Net\Ex3LogsUsingLog4Net\bin\Debug\log4net.dll
+C:\Users\Shily\Homework Zionet\Ex3LogsUsingLog4Net\Ex3LogsUsingLog4Net\bin\Debug\log4net.xml
+C:\Users\Shily\Homework Zionet\Ex3LogsUsingLog4Net\Ex3LogsUsingLog4Net\obj\Debug\Ex3LogsUsingLog4Net.csproj.AssemblyReference.cache
+C:\Users\Shily\Homework Zionet\Ex3LogsUsingLog4Net\Ex3LogsUsingLog4Net\obj\Debug\Ex3LogsUsingLog4Net.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shily\Homework Zionet\Ex3LogsUsingLog4Net\Ex3LogsUsingLog4Net\obj\Debug\Ex3LogsUsingLog4Net.csproj.CoreCompileInputs.cache
+C:\Users\Shily\Homework Zionet\Ex3LogsUsingLog4Net\Ex3LogsUsingLog4Net\obj\Debug\Ex3LogsUsingLog4Net.csproj.CopyComplete
+C:\Users\Shily\Homework Zionet\Ex3LogsUsingLog4Net\Ex3LogsUsingLog4Net\obj\Debug\Ex3LogsUsingLog4Net.exe
+C:\Users\Shily\Homework Zionet\Ex3LogsUsingLog4Net\Ex3LogsUsingLog4Net\obj\Debug\Ex3LogsUsingLog4Net.pdb
